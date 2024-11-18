@@ -1,0 +1,5 @@
+Multilevel on Prediction LOS:This repository contains the code, data preprocessing steps, and analyses from a study examining the influence of hospital-specific and regional factors on predicting hospital Length of Stay (LOS). LOS is a critical healthcare metric for optimizing resource allocation and improving patient outcomes.
+
+While traditional LOS prediction models primarily focus on patient-level characteristics, this research incorporates hospital attributes (e.g., bed size, teaching status, and control) and regional disparities, leveraging data from the 2019 National Inpatient Sample (NIS). By employing hierarchical modeling with random effects, this study accounts for variability at both hospital and regional levels and compares performance against flat models.
+
+The results demonstrate that adding institutional and geographic factors enhances LOS prediction performance, with implications for hospitals, policymakers, and healthcare administrators aiming to standardize LOS prediction while addressing disparities.
